@@ -1,6 +1,6 @@
 package hello;
 
 public class heyy {
-public static void heyy(String[] args) {
+public static void main(String[] args) {
 	        System.out.println("Hello, Jenkins! The build is successful.");
 }
